@@ -3,14 +3,14 @@
 
 **Nimed:**
 
-Ketrin Vanatoa
+- Ketrin Vanatoa
 
-Krista Kallas
+- Krista Kallas
 
-Nathan Raielo
+- Nathan Raielo
 
-Gendro Umber
+- Gendro Umber
 
-Markus Ait
+- Markus Ait
 
-Gregor Tilts
+- Gregor Tilts
